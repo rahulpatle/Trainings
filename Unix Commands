@@ -60,3 +60,22 @@ Variables
         $HOME     -  Display Home Directory   
         $DISPLAY  -  Contains the identifier for the display that X11 programs should use by default.
         $PATH     -  Displays the current path.
+
+
+Date : 4/09/2018
+
+Useful Commands : 
+
+1. touch: reates a file(not directory) and you can simple add an extension such as .txt after it to make it a Text File.
+		eg : touch x.pdf
+2. mv	: Moves files position within a directory
+		eg : mv /home/user/Desktop/Myfile/xyz.txt /home/user/Desktop
+3. cal	: This command will show calendar of present month
+	-m <month> : give calendar of specified month
+	-y <year>  : give calendar of specified year
+4. file	: displays the type of file.
+		eg : file xyz	
+5. lpr	: send file to printer
+6. ln	: make links between files
+7. less : to see long files on terminal as cat command will display last few lines of long files.	
+	
