@@ -53,8 +53,7 @@ partner.
 
 Reference : https://www.knime.com/services
 
-\
-\
+
 
 -   Marketing material and Educational material :
 
@@ -64,7 +63,7 @@ materials.
 
    
 
-\
+
 
 Cons of KNIME :
 
@@ -83,7 +82,5 @@ Informatica
 include Enterprise Cloud Data Management and Data Integration. It is
 being widely used in market
 
-\
-\
 
 
