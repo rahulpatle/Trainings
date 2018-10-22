@@ -65,9 +65,6 @@ def iswon (board,player)
 end
 
 
-#The Game will start from here , 
-# game loop
-
 puts "Connect Four "
 while true
 	for i in 1..2
